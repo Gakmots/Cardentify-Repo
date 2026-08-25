@@ -1,0 +1,66 @@
+{
+    "bank": {
+        "native_name": "EtherFi",
+        "english_name": "EtherFi",
+        "country": "PR",
+        "url": "https://www.ether.fi"
+    },
+    "cards": [
+        {
+            "description": "EtherFi (Core)",
+            "bin": [
+                45492423
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "country": "PR"
+            },
+            "source": "Website",
+            "ext": "png"
+        },
+        {
+            "description": "EtherFi (Luxe)",
+            "bin": [
+                45492423
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "country": "PR"
+            },
+            "source": "Website",
+            "ext": "png"
+        },
+        {
+            "description": "EtherFi (Pinnacle)",
+            "bin": [
+                45492423
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "country": "PR"
+            },
+            "source": "Website",
+            "ext": "png"
+        },
+        {
+            "description": "EtherFi (VIP)",
+            "bin": [
+                45492423
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "country": "PR"
+            },
+            "source": "Website",
+            "ext": "png"
+        }
+    ]
+}

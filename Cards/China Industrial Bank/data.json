@@ -22,6 +22,9 @@
         },
         {
             "description": "寰宇人生",
+            "bin": [
+                622908
+            ],
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
