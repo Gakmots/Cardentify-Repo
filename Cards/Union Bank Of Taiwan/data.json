@@ -1,0 +1,54 @@
+{
+    "bank": {
+        "native_name": "聯邦銀行",
+        "english_name": "Union Bank Of Taiwan",
+        "country": "TW",
+        "url": "https://www.ubot.com.tw"
+    },
+    "cards": [
+        {
+            "description": "聯邦賴點商務御璽卡",
+            "bin": [
+                410523
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "category": "Commercial",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "聯邦幸福M悠遊鈦商卡",
+            "bin": [
+                515709
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "Titanium",
+                "category": "Commercial",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "聯邦全國一卡通御璽卡",
+            "bin": [
+                463781
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "level": "Signature",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

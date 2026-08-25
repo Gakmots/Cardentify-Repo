@@ -1,0 +1,95 @@
+{
+    "bank": {
+        "native_name": "永豐銀行",
+        "english_name": "Bank SinoPac",
+        "country": "TW",
+        "url": "https://bank.sinopac.com"
+    },
+    "cards": [
+        {
+            "description": "現金回饋晶緻卡",
+            "bin": [
+                356670
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "TW",
+                "level": "Precious"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "夢行鈦商悠遊卡",
+            "bin": [
+                519923
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "category": "Commercial",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "鈦豐卡",
+            "bin": [
+                524196
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "鈦豐Combo卡",
+            "bin": [
+                524196
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "me Combo卡",
+            "bin": [
+                524189
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Vogue聯名Mastercard卡",
+            "bin": [
+                524115
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

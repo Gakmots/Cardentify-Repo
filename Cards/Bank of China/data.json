@@ -1,0 +1,204 @@
+{
+    "bank": {
+        "native_name": "中国银行",
+        "english_name": "Bank of China",
+        "country": "CN",
+        "url": "http://www.boc.cn"
+    },
+    "cards": [
+        {
+            "description": "长城借记卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "长城洛天依联名借记卡",
+            "bin": [
+                612790
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "上海哔哩哔哩联名借记卡",
+            "bin": [
+                612790
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中银无界数字白金卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "长城工薪借记卡",
+            "bin": [
+                621785
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "长城薪享借记卡（金卡）",
+            "bin": [
+                623573
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "长城环球通信用卡（发卡30周年纪念）",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "长城冰雪借记卡",
+            "bin": [
+                621669
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "茈凌2021",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "乡村振兴卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+                {
+            "description": "牛年生肖卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "财富管理卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "初音未来",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "长城无界青春卡校园版",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "中国银行",
+            "ext": "jpg"
+        },
+        {
+            "description": "长城商贸通借记卡",
+            "bin": [
+                621786
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "银联白金信用卡",
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}

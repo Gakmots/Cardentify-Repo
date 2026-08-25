@@ -1,0 +1,96 @@
+{
+    "bank": {
+        "native_name": "中信银行",
+        "english_name": "China Citic Bank",
+        "country": "CN",
+        "url": "https://www.citicbank.com"
+    },
+    "cards": [
+        {
+            "description": "美国运通金卡借记卡",
+            "bin": [
+                377138
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "万豪旅享家银联联名卡精逸白金卡",
+            "bin": [
+                622688
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "幸福财富白金卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "菁英卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "四叶草金卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Gold"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "护航计划联名卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "幸福年华卡",
+            "bin": [
+                621773
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}

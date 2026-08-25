@@ -1,0 +1,136 @@
+{
+    "bank": {
+        "native_name": "American Express",
+        "english_name": "American Express",
+        "country": "US",
+        "url": "https://www.americanexpress.com/"
+    },
+    "cards": [
+        {
+            "description": "Platinum Credit Card",
+            "bin": [
+                341282
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "HK",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Blue Cash Everyday",
+            "bin": [
+                341109
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Everyday"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "American Express Explorer(TM) Credit Card",
+            "bin": [
+                379390
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "HK",
+                "level": "Explorer"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Hilton Honors American Express Aspire Card",
+            "bin": [
+                379799
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "jpg"
+        },
+        {
+            "description": "Hilton Honors American Express Card",
+            "bin": [
+                379799
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "jpg"
+        },
+        {
+            "description": "Marriott Bonvoy® American Express® Card",
+            "bin": [
+                340176
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "AMEX SimplyCash",
+            "bin": [
+                340176
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Rewards Checking Card",
+            "bin": [
+                370914
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Supplementary Gold Card on Platinum Card",
+            "bin": [
+                379865
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "AMEX",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

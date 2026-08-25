@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "native_name": "KOHO",
+        "english_name": "KOHO",
+        "country": "CA",
+        "url": "https://www.koho.ca/"
+    },
+    "cards": [
+        {
+            "description": "KOHO Prepaid MasterCard",
+            "bin": [
+                559994
+            ],
+            "card": {
+                "type": "Prepaid",
+                "brand": "Mastercard",
+                "country": "CA",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

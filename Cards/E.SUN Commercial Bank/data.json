@@ -1,0 +1,166 @@
+{
+    "bank": {
+        "native_name": "玉山銀行",
+        "english_name": "E.SUN Commercial Bank",
+        "country": "TW",
+        "url": "https://www.esunbank.com.tw"
+    },
+    "cards": [
+        {
+            "description": "ETC悠遊聯名卡",
+            "bin": [
+                356618
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Precious",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "玉山悠遊聯名卡",
+            "bin": [
+                356568
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Platinum",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "玉山JCB晶緻卡",
+            "bin": [
+                356618
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Precious",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "玉山熊本熊卡-熊熊友好",
+            "bin": [
+                356772
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "level": "Precious",
+                "country": "TW"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "玉山星宇航空世界卡",
+            "bin": [
+                519480
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "World"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "公務人員國民旅遊卡",
+            "bin": [
+                523976
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Pi拍錢包信用卡 (烏漆嘛黑)",
+            "bin": [
+                524255
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "Pi拍錢包信用卡 (少女粉粉)",
+            "bin": [
+                524255
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "家樂福ETC悠遊聯名卡",
+            "bin": [
+                524255
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "玉山Ubear信用卡（黑）",
+            "bin": [
+                558936
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "category": "Business",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "玉山Ubear信用卡（黄）",
+            "bin": [
+                558936
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "category": "Business",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

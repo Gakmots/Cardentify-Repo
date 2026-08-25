@@ -1,0 +1,38 @@
+{
+    "bank": {
+        "native_name": "アプラス",
+        "english_name": "APLUS",
+        "country": "JP",
+        "url": "https://www.aplus.co.jp"
+    },
+    "cards": [
+        {
+            "description": "Ｔカード プラス",
+            "bin": [
+                358277
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "JCB",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "svg"
+        },
+        {
+            "description": "アプラスカード (Mastercard)",
+            "bin": [
+                521498
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "JP",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}

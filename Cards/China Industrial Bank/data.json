@@ -1,0 +1,68 @@
+{
+    "bank": {
+        "native_name": "兴业银行",
+        "english_name": "China Industrial Bank",
+        "country": "CN",
+        "url": "https://www.cib.com.cn"
+    },
+    "cards": [
+        {
+            "description": "兴业银行美国运通安愉借记卡",
+            "bin": [
+                370508
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "AMEX",
+                "country": "CN",
+                "level": "Select"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        },
+        {
+            "description": "寰宇人生",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "熊猫1",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "熊猫2",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "Mi Pay",
+            "ext": "png"
+        },
+        {
+            "description": "无界借记卡",
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "云闪付",
+            "ext": "png"
+        }
+    ]
+}

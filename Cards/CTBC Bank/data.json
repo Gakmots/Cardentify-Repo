@@ -1,0 +1,152 @@
+{
+    "bank": {
+        "native_name": "中國信託銀行",
+        "english_name": "CTBC Bank",
+        "country": "TW",
+        "url": "https://www.ctbcbank.com"
+    },
+    "cards": [
+        {
+            "description": "中國信託紅利御璽卡",
+            "bin": [
+                418230
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中信漢神百貨御璽卡",
+            "bin": [
+                418230
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託LINE Pay Debit卡",
+            "bin": [
+                447757
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Classic"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託紅利普卡 (VISA)",
+            "bin": [
+                456301
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Classic"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託商旅鈦金卡",
+            "bin": [
+                524689
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "category": "Commercial",
+                "level": "Titanium"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託紅利白金卡 (Mastercard)",
+            "bin": [
+                552049
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "TW",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託紅利白金卡 (VISA)",
+            "bin": [
+                431195
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託LINE Pay商務御璽卡",
+            "bin": [
+                430451
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "category": "Business",
+                "level": "Signature"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中信無印良品白金卡",
+            "bin": [
+                431195
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Platinum"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
+            "description": "中國信託中華電信普卡",
+            "bin": [
+                456301
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "TW",
+                "level": "Classic"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
+    ]
+}
