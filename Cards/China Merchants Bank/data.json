@@ -950,6 +950,20 @@
             "ext": "webp"
         },
         {
+            "description": "万事达金葵花借记卡",
+            "bin": [
+                531060
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "MasterCard",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "招商银行",
+            "ext": "png"
+        },
+        {
             "description": "福建理工大学·一卡通",
             "bin": [
                 621483
